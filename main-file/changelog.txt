@@ -1,0 +1,11 @@
+......... V 1.2 .........
+1: Fixed Alert error on all pages
+3: Fixed some Minor Tweaks
+
+......... V 1.1 .........
+1: Fixed some issues on desktop and mobile
+3: Minor Tweaks
+
+......... V 1.0 .........
+1: Initial Release
+

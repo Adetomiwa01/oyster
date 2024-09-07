@@ -1,0 +1,120 @@
+
+::selection {background: #c96206; color: #fff;}
+
+.header .nav ul li a.select-item{color: #c96206;}
+.header .nav ul li a:hover{color: #c96206;}
+.submenu a:hover { background: #c96206 !important;}
+.main-title span{color:#c96206;}
+
+.services .serv-main-sec:hover .service-sec-top-bg{ background:url(../images/service-top-hover.png) no-repeat; background-size: 100%;}
+.services .serv-main-sec:hover .service-sec-bottom-bg{ background:url(../images/service-bottom-hover.png) no-repeat; background-size: 100%;}
+
+.services .serv-main-sec:hover .service-sec i{color:#c96206;}
+.services .service-sec i{color:#c96206; border:solid 1px #c96206;}
+.services .serv-main-sec:hover .service-sec{background:#c96206;}
+.white-btn:hover{ background:#c96206;}
+.our-story .story-detail a.full-story{color:#c96206; border-bottom: solid 2px #c96206;}
+.upcoming-event .event-detail .event-text a.view-event{color: #c96206; border-bottom: solid 2px #c96206;}
+.upcoming-event .event-detail .event-text p a:hover{color: #c96206; border-bottom: solid 2px #c96206;}
+.today-food .special-food .food-detail span.price{color: #c96206;}
+.book-table .booking-form input[type=submit]{background-color:#c96206;}
+.latest-news .post .detail a:hover{color:#c96206;}
+.customer-words .testi-sec span.name{ color:#c96206;}
+.footer .about-oyster .follow-us ul li a:hover{color: #c96206; border: solid 2px #c96206;}
+.footer .about-oyster .newsletter a:hover{background: #c96206;}
+.footer .copyrights ul li a:hover{ color:#c96206;}
+.footer-dark .about-oyster .follow-us ul li a:hover{color: #c96206; border: solid 2px #c96206;}
+.footer-dark .about-oyster .newsletter a:hover{background: #c96206;}
+.footer-dark .copyrights ul li a:hover{ color:#c96206;}
+.submenu a.select {background: #c96206 !important;}  
+.header-two.sticky .social-icons li a:hover{ color: #c96206;}
+.services-two .serv-main-sec .service-sec .detail a:hover{border: solid 1px #c96206; background:#c96206;}
+.our-menu .menu-sec .menu-detail .food-detail span.price{color:#c96206;}
+.our-menu .food-sec .detail span.food-time{ color: #c96206; border-bottom: solid 1px #c96206;}
+.blog .blog-post .post-text a.read-more{ color: #c96206; border-bottom: solid 2px #c96206;}
+.news-posts h6.bar-title{background:#c96206;}
+.news-posts .search{ background:#c96206;}
+.news-posts .news-sec .detail a.read-more{color:#c96206; border-bottom: solid 2px #c96206;}
+.news-posts .news-sec .detail .comment a:hover span{color:#c96206;}
+.news-posts .comment-box .detail a:hover{ background: #c96206;}
+.news-posts .leave-reply .form input[type=submit]:hover{background-color:#c96206;}
+.contact-page .get-in-touch .get-touch-form input[type=submit]{background:#c96206;}
+.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active { color: #c96206; border-bottom: solid 2px #c96206;}
+.cbp-l-filters-list .cbp-filter-item:hover {color: #c96206;}
+.shop-gallery .cbp-item:hover  .price-cart .cart {color: #c96206; border-bottom: solid 2px #c96206;}
+.shop-detail .product-detail .pro-cart a{background:#c96206;}
+.openTabby .openTabby--nav ul li:hover { color: #c96206;}
+.all-reviews .review-sec .review-detail .reviewer span.name{color: #c96206;}
+.add-review .form input[type=submit]{background: #c96206;}
+.shop-detail .after-cart a:hover{background:#c96206;}
+.shop-cart .cart-pro-detail .cancel i{color:#c96206;}
+.shop-cart .cart-update-sec a:hover{background:#c96206;}
+.cash-decide .cart-total .total-sec a{background:#c96206;}
+.bread-crumb .bread-crumb-sec a.selected span.number{ background: #c96206;}
+.bread-crumb .bread-crumb-sec a.selected span.text{ color: #c96206;}
+.cash-payment .cash-delivery .next-step{background: #c96206;}
+.cash-payment .shipping-address .shipping-detail .edit-address{ color: #c96206; border-bottom: solid 1px #c96206;}
+.cash-payment .shipping-address .shipping-method .shipping-across span.dot{border: solid 8px #c96206;}
+.cash-delivery-detail a.return-stor{background:#c96206;}
+.header .cart-button{ background:#c96206;}
+.header .shop-bag .cart-food .detail .text a:hover{color:#c96206;}
+.header .shop-bag .sub-total a:hover{ background:#c96206;}
+.news-posts .news-sec .detail .comment a:hover{color:#c96206;}
+.news-posts .categories ul li a:hover{color: #c96206;}
+.news-posts .recent-posts .post-sec a.title:hover{ color:#c96206;}
+.header-two .nav ul li a:hover{color: #c96206;}
+.tp-caption .read-more:hover{ background: #c96206; border:solid 2px #c96206 !important;}
+.heapBox .heap .heapOptions .heapOption a.selected{background:#c96206;}
+.heapBox .heap .heapOptions .heapOption a:hover{background:#c96206;}
+.cd-top { background-color:#c96206 !important;}
+
+.header-two .shop-bag .cart-food .detail .text a:hover{color: #c96206;}
+.header-two .shop-bag .sub-total a:hover{ background:#c96206;}
+
+
+/**
+ * Hotel
+ -----------------------------*/
+.booking-accordion .availability{ background:#c96206; }
+.special-services .post .detail a:hover{background-color:#c96206; border:solid 1px #c96206;}
+.latest-posts .post-sec .post-detail a:hover{color:#c96206;}
+.latest-posts .find-location a:hover{ background:#c96206; border:solid 1px #c96206;}
+.footer-hotel-dark .foot-detail .newsletetr a:hover{background:#c96206;}
+.footer-hotel-dark .foot-detail .useful-links ul li a:hover, .footer .food-detail .useful-links ul li a:hover i{ color:#c96206;}
+.footer-hotel-dark .foot-detail .social-icons ul li a:hover{color: #c96206; border: solid 2px #c96206; }
+.welcome-oyster-hotel .text-detail a{color: #c96206; border-bottom: solid 2px #c96206;}
+.footer-hotel .foot-detail .newsletetr a:hover{background:#c96206;}
+.footer-hotel .foot-detail .social-icons ul li a:hover{color:#c96206; border: solid 2px #c96206; }
+.footer-hotel .foot-detail .useful-links ul li a:hover, .footer .food-detail .useful-links ul li a:hover i{ color:#c96206;}
+.hotel-rooms .room-sec .price-detail a:hover{background:#c96206;}
+.hotel-rooms .paging a.select, .hotel-rooms .paging a:hover{ background: #c96206; border: solid 1px #c96206;}
+.sub-banner .detail ul li a:hover{ color:#c96206;}
+.sub-banner .detail ul li a.select{ color:#c96206;}
+.room-detail .booking-form .form a.availability{ background:#c96206;}
+.booking-steps .reservation a{background:#c96206;}
+.booking-steps .your-room .detail .text a:hover{background:#c96206;}
+.booking-steps .book-now .payment-method a:hover{background:#c96206;}
+.blog .more-posts a:hover{color:#c96206;}
+.ui-widget-header { background:#c96206;}
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight { background:#c96206;}
+.ui-state-default:hover, .ui-widget-content .ui-state-default:hover, .ui-widget-header .ui-state-default:hover {background:#c96206;}
+
+
+/* OLD Color: #E9B947 > #c96206*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
